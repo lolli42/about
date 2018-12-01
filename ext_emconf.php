@@ -1,7 +1,7 @@
 <?php
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Help>About',
-    'description' => 'Shows info about TYPO3, installed extensions and a separate module for available modules.',
+    'description' => 'First patch to about extension.',
     'category' => 'module',
     'state' => 'stable',
     'uploadfolder' => 0,
