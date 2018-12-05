@@ -1,6 +1,6 @@
 <?php
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Help>About patch 2 test-2',
+    'title' => 'Help>About patch 3 test-2',
     'description' => 'Shows info about TYPO3, installed extensions and a separate module for available modules.',
     'category' => 'module',
     'state' => 'stable',
